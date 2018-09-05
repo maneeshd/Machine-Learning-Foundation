@@ -1,7 +1,6 @@
 # Machine-Learning-Foundation
-
 My projects for Udacity's Machine Learning Foundation Nanodegree
------
+
 
 ## 1. [Stroop Effect](https://github.com/maneeshd/stroop-effect)
 
